@@ -1,0 +1,4 @@
+make: Entering directory `/Users/jasonhou/code/jasonhouj/pjt_churn'
+pip install -r requirements.txt
+make: Leaving directory `/Users/jasonhou/code/jasonhouj/pjt_churn'
+ 
